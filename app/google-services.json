@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "337120913765",
+    "firebase_url": "https://cookingtime-2e05e-default-rtdb.firebaseio.com",
+    "project_id": "cookingtime-2e05e",
+    "storage_bucket": "cookingtime-2e05e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337120913765:android:dee0bb0e35e47fc3f0d98c",
+        "android_client_info": {
+          "package_name": "mx.edu.utng.cookingtime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337120913765-iv84h24oioccnrtsesg2pdm8vnbiqlp9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mx.edu.utng.cookingtime",
+            "certificate_hash": "d098fd16d2823b98489dd26feb392b18e984e22b"
+          }
+        },
+        {
+          "client_id": "337120913765-g4sqkanepqij6pj2j4sure72t27gofp1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLNztiWomtOix7v4dF0Gm2EnwHUHLLvKY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337120913765-g4sqkanepqij6pj2j4sure72t27gofp1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
